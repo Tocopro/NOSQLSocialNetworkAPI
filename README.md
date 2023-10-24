@@ -1,6 +1,6 @@
 # NoSQL-Social-Network-API
 
-[![project-languages-used](https://img.shields.io/github/languages/count/israel2800/team-profile-generator-challenge?color=important)](https://github.com/israel2800/NoSQL-Social-Network-API)
+
 [![project-top-language](https://img.shields.io/github/languages/top/israel2800/NoSQL-Social-Network-API?color=orange)](https://github.com/israel2800/NoSQL-Social-Network-API)
 
 
@@ -20,9 +20,6 @@
 * [ License ](#License)
 #
 
-##  Project Links
-
-Walkthrough Video:
 
 
 GitHub project:
@@ -31,23 +28,23 @@ https://github.com/Tocopro/NOSQLSocialNetworkAPI
 ## Screenshots-Demo
 
 **Insomnia GET Test:**
-
-
+![Alt text](<GET ALL Thoughts.png>)
+![Alt text](<GET Method.png>) README.md
 
 **Insomnia POST Test:**
+![Alt text](<POST method.png>)
+![Alt text](<POSTING a THOUGHT.png>)
 
 
-
-**Insomnia PUT Test:**
-
+**Insomia PUT Test:**
+![Alt text](<PUT Method.png>)
+![Alt text](<PUT Thoughts MEthod.png>)
 
 
 **Insomnia DELETE Test:**
+![Alt text](<DELETE Method.png>)
 
-
-
-**Insomnia GET a user by id Test:**
-
+![Alt text](<DELETE A THOUGHT.png>)
 
 
 ## Project Objective
@@ -77,7 +74,7 @@ npm test
 ## Author Contact
 Contact the author with any questions!<br>
 Github link: https://github.com/Tocopro/NOSQLSocialNetworkAPI<br>
-Email: dady281100@gmail.com
+Email: nicwac200g@gmail.com
 
 ## License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
