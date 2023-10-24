@@ -2,7 +2,7 @@
 // load all libraries needed to run the App
 
 const express = require("express");
-const db = require("./config/connection");
+const db = require("./Configuration/connection");
 const routes = require("./routes");
 
 const app = express();

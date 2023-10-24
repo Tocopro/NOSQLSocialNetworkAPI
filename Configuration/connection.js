@@ -3,7 +3,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost:3080/NOSQLSocialNetworkAPI",
+  process.env.MONGODB_URI || "mongodb://localhost:27017/NOSQLSocialNetworkAPI",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
